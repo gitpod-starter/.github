@@ -2,7 +2,7 @@
 
 
 
-**Here are some ideas to get you started:**
+**Here are some ideas to get started:**
 
 - 🙋 Here you can find many different **empty but ready** repositories for starting gitpod projects. 
 - 🌈 The idea here is to have all flavors of starters, so we are open for contribution!!
